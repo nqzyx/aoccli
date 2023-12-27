@@ -4,4 +4,4 @@ I am starting this project in late December of 2023 as an idea to provide a star
 
 The CLI is written in Go. It uses Go modules to manage dependencies. It also uses the following Go packages.
 - [`Cobra`](https://cobra.dev/) - [GitHub](https:/github.com/spf13/cobra)
-- `Viper` - [GitHub[(https://github.com/spf13/viper)
+- `Viper` - [GitHub](https://github.com/spf13/viper)
